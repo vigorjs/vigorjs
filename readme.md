@@ -2,7 +2,7 @@
 Hi, I'm Virgo
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
-<h3 align="center">Check my Portofolio 👉 https://vigorjs.vercel.app</h3>
+<h3 align="center">Check my Portofolio 👉 https://vigorjs.me</h3>
 <img src="https://komarev.com/ghpvc/?username=vigorjs&label=Profile%20Views&color=0e75b6&style=for-the-badge" align='right' alt="vigorjs" />
 
 ---
